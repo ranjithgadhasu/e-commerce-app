@@ -15,7 +15,7 @@
       </div>
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-      <img className="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600"/>
+      <img className="object-cover object-center rounded" alt="hero" src="https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/e/f/e/xl-fp-002-zimbar-original-imagz8n8hvppppz7.jpeg?q=70" style={{width:"400px", height:"400px"}}/>
     </div>
   </div>
 </section>
